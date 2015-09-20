@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-09-14 20:52:18
+title:  "El cambio"
+date:   2015-09-19 20:52:18
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+El cambio es un concepto que ha intrigado a la sociedad desde hace siglos.  En Grecia Parménides sostenía que el cambio es imposible, mientras Heráclito argumentaba que el cambio no sólo era posible sino que es una necesidad.   En la actualidad vivimos la velocidad de los cambios del entorno, originados por cerca de 7 billones de personas pensando, produciendo, creando, consumiendo y cerca de 3 billones conectadas por el internet.  Esto requiere personas y equipos que se adapten a estas transformaciones aceleradas, cambiando.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+El desafío consiste entonces, en ser líderes del cambio.  Luc de Barabandere propone entender el cambio a través de dos ramas.  El cambio de la percepción y la realidad.   El primero está relacionado con la creatividad y el segundo con la innovación.  Y sostiene que no basta con cambiar en una de las dos dimensiones,  sino que se debe cambiar de hecho, las dos veces.  Cambiar las percepciones y luego la realidad, lo cual exige capacidades diferentes.  
 
-Jekyll also offers powerful support for code snippets:
+El cambio de percepción es importante porque posibilita el descubrimiento - que se mueve en el terreno de la ciencia- , la creación - propio del arte -  e invención - enlazado a tecnologías-.  De la habilidad para cambiar percepciones - orientadas a la invención, creación y descubrimiento - depende el nivel de desarrollo individual y social.  En cuanto más se desarrolla una sociedad, sus investigadores, inventores, artistas, filósofos, emprendedores participan más en la visualización y construcción de futuros deseables.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+¿Podemos desatar cambios de percepción de manera consistente?, ¿que referentes nos ha dejado la historia para inspirarnos?, ¿tal vez un filósofo, un inventor, un escritor, un hereje?, ¿cuáles cambios de percepción necesitamos para mejora nuestra vida?. 
