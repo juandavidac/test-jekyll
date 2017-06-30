@@ -10,4 +10,4 @@ El desafío consiste entonces, en ser líderes del cambio positivo.  Luc de Bara
 
 El cambio de percepción es la semilla que posibilita el descubrimiento (que se mueve en el terreno de la ciencia), la creación (propio del arte) y la invención (enlazado a tecnologías).  El grado de desarrollo individual y social depende de la habilidad para cambiar percepciones perjudiciales y potenciar las utiles.  
 
-Sabiendo que las percepciones con que operamos diariamenteas determinan nuestras posibiliades, hay que empezar a cuestionar y tamizar esos modelos mentales que condicionan y limitan para que evolucionemos a mejores versiones de nosotros.
+Sabiendo que las percepciones con que operamos diariamenteas determinan nuestras posibiliades, hay que tamizar esos modelos mentales con os que vivimos el día a día.
