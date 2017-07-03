@@ -9,15 +9,15 @@ We have been mislead to think about innovation as a random, uncontrollable proce
 
 To start making sense of innovation, we can identify three steps to innovate. It begins with opportunity discovery, followed by solution development and go-to-market.
 
-The step that's worth considering above all is the opportunity discovery step because by being more rigorous at it we stack up the chances of success in our favor.
+The step that's worth considering above all is the opportunity discovery step because by being more rigorous at it we can stack up the chances of success in our favor.
 
-The lack of a framework to identify and filter opportunity insights, usually get us to attribute startup success to the level of creativity or passion shown by the entrepreneurial teams, not recognizing there is an underlying reason; there was a a need not yet served by anyone.  
+The lack of a framework to identify and filter opportunity insights, usually take us to attribute startup success to the level of creativity or passion shown by the entrepreneurial teams, not recognizing there is an underlying reason; there was a a need not yet served by anyone.  
 
-One good first step to make innovation more predictable is to do opportunity discovery with the Jobs-To-Be-Done theory, which took off with Theodore Levitt by stating "Customer don't want quarter-inch drills, they want quarter-inch holes" and has been refined by Anthony Ulwick and Clayton Christensen.  
+One good first step to make innovation more predictable is to do opportunity discovery with the Jobs-To-Be-Done theory, which took off with Theodore Levitt by stating "Customer don't want quarter-inch drills, they want quarter-inch holes".  
 
 This perspective its useful because shifts our focus away from a product platform mentality, provides a fresh outlook to understand markets/opportunities and reduce noise. This framework makes a functional job-to-be-done the base to create value and defines the criteria that is required to execute that job ideally.  
 
-Therefore, one of the main goals of innovators is to exercise the skill of opportunity discovery, to surface underserved, given-up or ignored success criteria of functional jobs.  Only then, they stand on solid ground to begin the idea/solution generation phase.
+Therefore, one of the main goals of innovators is to exercise the skill of opportunity discovery, to surface underserved, given-up or ignored success criteria of functional jobs.  Only then, creators stand on solid ground to begin the idea/solution generation phase.
 
 <!-- Tenemos la idea que la innovación es aleatoria, que surge de improviso, que es algo incontrolable. Entender el proceso de innovación de esa manera nos aleja de producir resultados consistentes en el tiempo. Debemos buscar que sea un proceso más predecible.
 
