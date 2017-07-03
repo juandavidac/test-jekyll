@@ -16,7 +16,7 @@ One good first step to make innovation predictable is to do opportunity discover
 
 This perspective its useful because shifts our focus away from a product platform mentality, provides a fresh outlook to understand markets and opportunities and reduce noise and confusion. This framework makes a functional job-to-be-done the base to create value and its later supported by the definition of the criteria that is required to execute the job ideally.  
 
-Therefore, one of the main goal of entrepreneurs is to exercise the opportunity discovery skills, to surface underserved, given-up or ignored success criteria of functional jobs.  And at a later step come up with ideas and solutions above solid ground.
+Therefore, one of the main goal of entrepreneurs is to exercise the opportunity discovery skills, to surface underserved, given-up or ignored success criteria of functional jobs.  And only then at a later step come up with ideas and solutions above solid ground.
 
 <!-- Tenemos la idea que la innovación es aleatoria, que surge de improviso, que es algo incontrolable. Entender el proceso de innovación de esa manera nos aleja de producir resultados consistentes en el tiempo. Debemos buscar que sea un proceso más predecible.
 
