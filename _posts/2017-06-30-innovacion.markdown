@@ -13,7 +13,7 @@ The step that's worth considering above all is the opportunity discovery step be
 
 The lack of a framework to identify and filter opportunity insights, usually take us to attribute startup success to the level of creativity or passion shown by the entrepreneurial teams, not recognizing there is always an underlying reason; there was a a need not yet served by anyone.  
 
-One good first step to make innovation more predictable is to do opportunity discovery with the Jobs-To-Be-Done theory, which took off with Theodore Levitt by stating "Customers don't want quarter-inch drills, they want quarter-inch holes".  
+One good first step to make innovation more predictable is to do opportunity discovery based on Theodore Levitt's thinking, who stated "people don't want quarter-inch drills, they want quarter-inch holes".  
 
 This perspective its useful because shifts our focus away from a product platform mentality, provides a fresh outlook to understand markets/opportunities and reduce noise. This framework makes a functional job-to-be-done the base to create value and defines the criteria that is required to execute that job ideally.  
 
